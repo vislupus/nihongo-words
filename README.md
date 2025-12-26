@@ -4,7 +4,7 @@ A minimalist, focused Flutter application for learning Japanese vocabulary with 
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Platform](https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Windows-lightgrey.svg)
+![Platform](https://img.shields.io/badge/platform-Android-lightgrey.svg)
 
 ## ✨ Features
 
@@ -63,6 +63,6 @@ A minimalist, focused Flutter application for learning Japanese vocabulary with 
 
 ## 📸 Screenshots
 
-| Practice Mode | Stats View | Filter System |
-|:---:|:---:|:---:|
-| <!-- Insert Screenshot 1 here --> | <!-- Insert Screenshot 2 here --> | <!-- Insert Screenshot 3 here --> |
+| Home | Practice Mode | Stats View | Filter System |
+|:---:|:---:|:---:|:---:|
+| ![Home](screenshots/1766737797734.jpg) | ![Practice Mode](screenshots/1766737797722.jpg) | ![Stats View](screenshots/1766737797731.jpg) | ![Filter System](screenshots/1766737797726.jpg) |
